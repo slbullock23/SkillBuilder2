@@ -5,7 +5,7 @@
  * provide a character with power.
  *
  * @author (Saniyah Bullock)
- * @version (0.1)
+ * @version (0.2)
  */
 public class PowerPill
 {
@@ -31,8 +31,8 @@ public class PowerPill
     /**
      * Initializes this power pill to the value of power
      * and sets the name of the pill to name.
-     * @PowerPill name the name of this power pill
-     * @power power the power level of this power pill.
+     * name the name of this power pill
+     * power the power level of this power pill.
      */
     public PowerPill(String name, int power) // creates a value constructor which takes two parameters, one as a name for the string, and the second for the power
     {
