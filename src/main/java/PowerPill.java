@@ -26,6 +26,7 @@ public class PowerPill
     public PowerPill(String name) // creates a value constructor that takes name as a parameter with type String
     {
         this.name = name;
+        this.power = DEFAULT_POWER;
     }
 
     /**
